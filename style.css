@@ -41,3 +41,9 @@ img{
     padding: 10px;
     box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
 }
+
+#div1
+{
+    position: sticky;
+    bottom:0;
+}
